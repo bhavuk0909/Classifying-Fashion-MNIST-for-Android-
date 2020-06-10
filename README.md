@@ -1,4 +1,4 @@
-# Classifying-Fashion-MNIST-for-Android-
+# Classifying-Fashion-MNIST(for Android)
 
 1. Open the given IPYNB file in colab.
 
