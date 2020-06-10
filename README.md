@@ -5,7 +5,7 @@
 2. You can change some hyperparameters (like no. of epochs,loss function etc.)
 
 
-# What this file do?
+# What does this file do?
 
 1. It firsts construct a classifier to classify 10 classes with tensorflow 2.0.
 
